@@ -1,0 +1,5 @@
+name: Captcha
+main: com.captcha.Main
+version: 1.0
+author: StarZorrow
+description: Anti Spam & Command Captcha
